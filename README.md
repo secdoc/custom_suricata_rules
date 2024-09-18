@@ -1,2 +1,2 @@
-# custom_suricata_rules
-Custome Suricata Rules
+# Custom Suricata Rules
+
